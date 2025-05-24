@@ -1,0 +1,179 @@
+body {
+   font-family: Arial, sans-serif;
+   background: linear-gradient(135deg, #7b8fff 0%, #a084ee 100%);
+   margin: 0;
+   padding: 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   min-height: 100vh;
+}
+
+header {
+   width: 100%;
+   max-width: 700px;
+   text-align: center;
+   margin-top: 32px;
+   margin-bottom: 16px;
+}
+
+h1 {
+   color: #fff;
+   font-size: 2.2rem;
+   margin: 0 0 8px 0;
+   letter-spacing: -1px;
+}
+
+.status {
+   color: #fff;
+   font-size: 1.1rem;
+   display: flex;
+   justify-content: center;
+   gap: 32px;
+   margin-bottom: 8px;
+}
+
+main {
+   background: #fff;
+   border-radius: 24px;
+   box-shadow: 0 4px 24px rgba(80, 80, 160, 0.10);
+   padding: 32px 24px 24px 24px;
+   max-width: 700px;
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.card-area {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-bottom: 24px;
+}
+
+.card {
+   width: 280px;
+   height: 170px;
+   background: linear-gradient(135deg, #7b8fff 0%, #a084ee 100%);
+   border-radius: 18px;
+   box-shadow: 0 2px 12px rgba(80, 80, 160, 0.10);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   color: #fff;
+   font-size: 2rem;
+   font-weight: bold;
+   margin-bottom: 16px;
+   position: relative;
+   transition: transform 0.3s;
+}
+.card .pos {
+   font-size: 1rem;
+   font-weight: 400;
+   background: rgba(255,255,255,0.18);
+   border-radius: 12px;
+   padding: 4px 14px;
+   margin-top: 12px;
+   color: #e0e0ff;
+}
+
+.card-buttons {
+   display: flex;
+   gap: 12px;
+   margin-bottom: 18px;
+}
+.card-buttons button {
+   padding: 10px 24px;
+   border: none;
+   border-radius: 20px;
+   background: linear-gradient(90deg, #7b8fff 0%, #a084ee 100%);
+   color: #fff;
+   font-size: 1rem;
+   font-weight: 600;
+   cursor: pointer;
+   box-shadow: 0 2px 8px rgba(80, 80, 160, 0.10);
+   transition: background 0.2s, transform 0.1s;
+}
+.card-buttons button:hover {
+   background: linear-gradient(90deg, #a084ee 0%, #7b8fff 100%);
+   transform: translateY(-2px);
+}
+
+.mode-select {
+   display: flex;
+   gap: 12px;
+   margin-bottom: 24px;
+}
+.mode-select button {
+   padding: 8px 22px;
+   border: none;
+   border-radius: 18px;
+   background: #f2f2fa;
+   color: #7b8fff;
+   font-size: 1rem;
+   font-weight: 600;
+   cursor: pointer;
+   transition: background 0.2s, color 0.2s;
+}
+.mode-select button.active, .mode-select button:focus {
+   background: linear-gradient(90deg, #7b8fff 0%, #a084ee 100%);
+   color: #fff;
+}
+
+.progress-bar {
+   width: 100%;
+   max-width: 400px;
+   height: 14px;
+   background: #e6e6fa;
+   border-radius: 8px;
+   margin-bottom: 18px;
+   position: relative;
+   overflow: hidden;
+}
+.progress-bar .progress {
+   height: 100%;
+   background: linear-gradient(90deg, #7b8fff 0%, #a084ee 100%);
+   border-radius: 8px 0 0 8px;
+   width: 5%; /* JS로 동적으로 변경 예정 */
+   transition: width 0.3s;
+}
+.progress-bar .progress-text {
+   position: absolute;
+   width: 100%;
+   top: 0;
+   left: 0;
+   text-align: center;
+   font-size: 0.95rem;
+   color: #7b8fff;
+   line-height: 14px;
+   font-weight: 600;
+}
+
+.stats {
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+   max-width: 400px;
+   margin-top: 10px;
+   gap: 10px;
+}
+.stats > div {
+   background: #f2f2fa;
+   border-radius: 14px;
+   flex: 1;
+   text-align: center;
+   padding: 12px 0 8px 0;
+   color: #7b8fff;
+   font-size: 1.05rem;
+   font-weight: 600;
+   box-shadow: 0 1px 4px rgba(80, 80, 160, 0.06);
+}
+.stats span {
+   display: block;
+   font-size: 1.3rem;
+   color: #a084ee;
+   font-weight: bold;
+   margin-top: 2px;
+} 

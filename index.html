@@ -1,0 +1,49 @@
+   <!DOCTYPE html>
+   <html lang="ko">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>English Card</title>
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+      <header>
+         <h1>🎯 영어 단어 카드 게임</h1>
+         <div class="status">
+            <span>점수: <span id="score">0</span></span>
+            <span>레벨: <span id="level">1</span></span>
+         </div>
+      </header>
+
+      <main>
+         <div class="card-area">
+            <div class="card">
+               <span class="word">UNDERSTAND</span>
+               <span class="pos">동사</span>
+            </div>
+            <div class="card-buttons">
+               <button id="flip-btn">카드 뒤집기</button>
+               <button id="next-btn">다음 단어</button>
+            </div>
+         </div>
+
+         <div class="mode-select">
+            <button class="active">학습 모드</button>
+            <button>퀴즈 모드</button>
+            <button>랜덤 모드</button>
+         </div>
+
+         <div class="progress-bar">
+            <div class="progress"></div>
+            <span class="progress-text">1 / 20 단어</span>
+         </div>
+
+         <div class="stats">
+            <div>학습한 단어<br><span id="learned">0</span></div>
+            <div>정답률<br><span id="accuracy">0%</span></div>
+            <div>연속 정답<br><span id="streak">0</span></div>
+         </div>
+      </main>
+      <script src="script.js"></script>
+   </body>
+   </html>  

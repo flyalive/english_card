@@ -1,0 +1,1152 @@
+  [
+    {
+      "word": "able",
+      "pos": "형",
+      "meaning": "~을 할 수 있는"
+    },
+    {
+      "word": "advice",
+      "pos": "명",
+      "meaning": "충고"
+    },
+    {
+      "word": "alive",
+      "pos": "형",
+      "meaning": "살아있는"
+    },
+    {
+      "word": "among",
+      "pos": "전",
+      "meaning": "~의 사이에"
+    },
+    {
+      "word": "angel",
+      "pos": "명",
+      "meaning": "천사"
+    },
+    {
+      "word": "army",
+      "pos": "명",
+      "meaning": "군대"
+    },
+    {
+      "word": "attack",
+      "pos": "동/명",
+      "meaning": "공격하다/공격"
+    },
+    {
+      "word": "author",
+      "pos": "명",
+      "meaning": "저자"
+    },
+    {
+      "word": "automatic",
+      "pos": "형",
+      "meaning": "자동의"
+    },
+    {
+      "word": "average",
+      "pos": "형/명",
+      "meaning": "평균의/평균"
+    },
+    {
+      "word": "background",
+      "pos": "명",
+      "meaning": "배경"
+    },
+    {
+      "word": "balloon",
+      "pos": "명",
+      "meaning": "풍선"
+    },
+    {
+      "word": "band",
+      "pos": "명",
+      "meaning": "밴드, 악단, 끈"
+    },
+    {
+      "word": "beard",
+      "pos": "명",
+      "meaning": "턱수염"
+    },
+    {
+      "word": "bet",
+      "pos": "동/명",
+      "meaning": "돈을 걸다/내기"
+    },
+    {
+      "word": "bin",
+      "pos": "명",
+      "meaning": "쓰레기통"
+    },
+    {
+      "word": "bit",
+      "pos": "부/명",
+      "meaning": "조금, 잠시/작은 조각"
+    },
+    {
+      "word": "blanket",
+      "pos": "명",
+      "meaning": "담요"
+    },
+    {
+      "word": "blind",
+      "pos": "형",
+      "meaning": "눈이 먼, 맹인인"
+    },
+    {
+      "word": "blond(e)",
+      "pos": "형",
+      "meaning": "금발 머리의"
+    },
+    {
+      "word": "boil",
+      "pos": "동",
+      "meaning": "끓다, 끓이다"
+    },
+    {
+      "word": "bomb",
+      "pos": "명",
+      "meaning": "폭탄"
+    },
+    {
+      "word": "boot",
+      "pos": "명",
+      "meaning": "장화"
+    },
+    {
+      "word": "bow",
+      "pos": "동/명",
+      "meaning": "절하다, 굽다/인사, 활"
+    },
+    {
+      "word": "bowl",
+      "pos": "명",
+      "meaning": "(속이 깊은) 그릇"
+    },
+    {
+      "word": "brain",
+      "pos": "명",
+      "meaning": "뇌, 지능"
+    },
+    {
+      "word": "branch",
+      "pos": "명",
+      "meaning": "나뭇가지"
+    },
+    {
+      "word": "brave",
+      "pos": "형",
+      "meaning": "용감한"
+    },
+    {
+      "word": "brick",
+      "pos": "명",
+      "meaning": "벽돌"
+    },
+    {
+      "word": "bubble",
+      "pos": "명",
+      "meaning": "거품"
+    },
+    {
+      "word": "bug",
+      "pos": "명",
+      "meaning": "벌레"
+    },
+    {
+      "word": "cage",
+      "pos": "명",
+      "meaning": "새장"
+    },
+    {
+      "word": "calm",
+      "pos": "형",
+      "meaning": "차분한"
+    },
+    {
+      "word": "cancel",
+      "pos": "동",
+      "meaning": "취소하다"
+    },
+    {
+      "word": "castle",
+      "pos": "명",
+      "meaning": "성"
+    },
+    {
+      "word": "cave",
+      "pos": "명",
+      "meaning": "동굴"
+    },
+    {
+      "word": "ceiling",
+      "pos": "명",
+      "meaning": "천장"
+    },
+    {
+      "word": "chat",
+      "pos": "동/명",
+      "meaning": "잡담하다/잡담"
+    },
+    {
+      "word": "cheek",
+      "pos": "명",
+      "meaning": "볼, 뺨"
+    },
+    {
+      "word": "chest",
+      "pos": "명",
+      "meaning": "가슴, 흉부"
+    },
+    {
+      "word": "choice",
+      "pos": "명",
+      "meaning": "선택"
+    },
+    {
+      "word": "chop",
+      "pos": "동",
+      "meaning": "썰다, 내려치다"
+    },
+    {
+      "word": "clerk",
+      "pos": "명",
+      "meaning": "(가게) 점원"
+    },
+    {
+      "word": "cliff",
+      "pos": "명",
+      "meaning": "절벽"
+    },
+    {
+      "word": "climate",
+      "pos": "명",
+      "meaning": "기후"
+    },
+    {
+      "word": "coin",
+      "pos": "명",
+      "meaning": "동전"
+    },
+    {
+      "word": "community",
+      "pos": "명",
+      "meaning": "지역사회, 집단"
+    },
+    {
+      "word": "compare",
+      "pos": "동",
+      "meaning": "비교하다"
+    },
+    {
+      "word": "confident",
+      "pos": "형",
+      "meaning": "자신 있는, 확신하는"
+    },
+    {
+      "word": "contact",
+      "pos": "동/명",
+      "meaning": "연락하다/접촉, 연락"
+    },
+    {
+      "word": "continue",
+      "pos": "동",
+      "meaning": "계속하다"
+    },
+    {
+      "word": "cop",
+      "pos": "명",
+      "meaning": "경찰관"
+    },
+    {
+      "word": "correct",
+      "pos": "형/동",
+      "meaning": "맞는, 정확한/수정하다"
+    },
+    {
+      "word": "cough",
+      "pos": "동/명",
+      "meaning": "기침하다/기침"
+    },
+    {
+      "word": "count",
+      "pos": "동",
+      "meaning": "세다"
+    },
+    {
+      "word": "courage",
+      "pos": "명",
+      "meaning": "용기"
+    },
+    {
+      "word": "create",
+      "pos": "동",
+      "meaning": "창조하다"
+    },
+    {
+      "word": "crop",
+      "pos": "명",
+      "meaning": "농작물"
+    },
+    {
+      "word": "crown",
+      "pos": "명",
+      "meaning": "왕관"
+    },
+    {
+      "word": "cute",
+      "pos": "형",
+      "meaning": "귀여운"
+    },
+    {
+      "word": "decision",
+      "pos": "명",
+      "meaning": "결정"
+    },
+    {
+      "word": "deliver",
+      "pos": "동",
+      "meaning": "배달하다"
+    },
+    {
+      "word": "dentist",
+      "pos": "명",
+      "meaning": "치과의사"
+    },
+    {
+      "word": "describe",
+      "pos": "동",
+      "meaning": "묘사하다"
+    },
+    {
+      "word": "desert",
+      "pos": "명",
+      "meaning": "사막"
+    },
+    {
+      "word": "detail",
+      "pos": "명",
+      "meaning": "세부사항"
+    },
+    {
+      "word": "develop",
+      "pos": "동",
+      "meaning": "개발하다, 성장하다"
+    },
+    {
+      "word": "dictionary",
+      "pos": "명",
+      "meaning": "사전"
+    },
+    {
+      "word": "discover",
+      "pos": "동",
+      "meaning": "발견하다, 알아내다"
+    },
+    {
+      "word": "dive",
+      "pos": "동",
+      "meaning": "잠수하다"
+    },
+    {
+      "word": "dolphin",
+      "pos": "명",
+      "meaning": "돌고래"
+    },
+    {
+      "word": "doubt",
+      "pos": "동/명",
+      "meaning": "의심하다/의심"
+    },
+    {
+      "word": "drug",
+      "pos": "명",
+      "meaning": "약"
+    },
+    {
+      "word": "dust",
+      "pos": "명",
+      "meaning": "먼지"
+    },
+    {
+      "word": "each",
+      "pos": "형",
+      "meaning": "각각의"
+    },
+    {
+      "word": "earn",
+      "pos": "동",
+      "meaning": "(돈을) 벌다"
+    },
+    {
+      "word": "edit",
+      "pos": "동",
+      "meaning": "편집하다, 수정하다"
+    },
+    {
+      "word": "else",
+      "pos": "형/부",
+      "meaning": "그 밖의, 다른/그 밖에"
+    },
+    {
+      "word": "employ",
+      "pos": "동",
+      "meaning": "고용하다"
+    },
+    {
+      "word": "empty",
+      "pos": "형",
+      "meaning": "빈, 공허한"
+    },
+    {
+      "word": "enemy",
+      "pos": "명",
+      "meaning": "적"
+    },
+    {
+      "word": "essay",
+      "pos": "명",
+      "meaning": "에세이, 수필"
+    },
+    {
+      "word": "even",
+      "pos": "부",
+      "meaning": "~조차도, ~까지도"
+    },
+    {
+      "word": "except",
+      "pos": "전",
+      "meaning": "~을 제외하고"
+    },
+    {
+      "word": "excited",
+      "pos": "형",
+      "meaning": "신이 난"
+    },
+    {
+      "word": "expect",
+      "pos": "동",
+      "meaning": "기대하다, 기다리다"
+    },
+    {
+      "word": "expensive",
+      "pos": "형",
+      "meaning": "비싼"
+    },
+    {
+      "word": "experience",
+      "pos": "명/동",
+      "meaning": "경험/경험하다"
+    },
+    {
+      "word": "explain",
+      "pos": "동",
+      "meaning": "설명하다"
+    },
+    {
+      "word": "factory",
+      "pos": "명",
+      "meaning": "공장"
+    },
+    {
+      "word": "fair",
+      "pos": "형/명",
+      "meaning": "공평한/박람회"
+    },
+    {
+      "word": "fancy",
+      "pos": "명/형",
+      "meaning": "상상/화려한"
+    },
+    {
+      "word": "fantastic",
+      "pos": "형",
+      "meaning": "환상적인"
+    },
+    {
+      "word": "fence",
+      "pos": "명",
+      "meaning": "울타리, 장애물"
+    },
+    {
+      "word": "fever",
+      "pos": "명",
+      "meaning": "열"
+    },
+    {
+      "word": "final",
+      "pos": "형",
+      "meaning": "마지막의, 최종적인"
+    },
+    {
+      "word": "flag",
+      "pos": "명",
+      "meaning": "깃발"
+    },
+    {
+      "word": "flat",
+      "pos": "형",
+      "meaning": "평평한, 바람이 빠진"
+    },
+    {
+      "word": "flood",
+      "pos": "명",
+      "meaning": "홍수"
+    },
+    {
+      "word": "fog",
+      "pos": "명",
+      "meaning": "안개"
+    },
+    {
+      "word": "follow",
+      "pos": "동",
+      "meaning": "따라가다, 뒤따르다"
+    },
+    {
+      "word": "foreign",
+      "pos": "형",
+      "meaning": "외국의"
+    },
+    {
+      "word": "forever",
+      "pos": "부",
+      "meaning": "영원히"
+    },
+    {
+      "word": "frog",
+      "pos": "명",
+      "meaning": "개구리"
+    },
+    {
+      "word": "gain",
+      "pos": "동",
+      "meaning": "얻다, 늘다"
+    },
+    {
+      "word": "gate",
+      "pos": "명",
+      "meaning": "정문, 출입구"
+    },
+    {
+      "word": "genius",
+      "pos": "명",
+      "meaning": "천재"
+    },
+    {
+      "word": "ghost",
+      "pos": "명",
+      "meaning": "유령, 귀신"
+    },
+    {
+      "word": "gift",
+      "pos": "명",
+      "meaning": "선물, 재능"
+    },
+    {
+      "word": "giraffe",
+      "pos": "명",
+      "meaning": "기린"
+    },
+    {
+      "word": "glove",
+      "pos": "명",
+      "meaning": "장갑"
+    },
+    {
+      "word": "golf",
+      "pos": "명",
+      "meaning": "골프"
+    },
+    {
+      "word": "guest",
+      "pos": "명",
+      "meaning": "손님, 투숙객"
+    },
+    {
+      "word": "guide",
+      "pos": "명/동",
+      "meaning": "안내자/안내하다"
+    },
+    {
+      "word": "gun",
+      "pos": "명",
+      "meaning": "총"
+    },
+    {
+      "word": "gym",
+      "pos": "명",
+      "meaning": "체육관"
+    },
+    {
+      "word": "half",
+      "pos": "명/형",
+      "meaning": "절반/절반의"
+    },
+    {
+      "word": "hall",
+      "pos": "명",
+      "meaning": "복도, 현관"
+    },
+    {
+      "word": "handsome",
+      "pos": "형",
+      "meaning": "잘생긴"
+    },
+    {
+      "word": "happen",
+      "pos": "동",
+      "meaning": "일어나다, 우연히~하다"
+    },
+    {
+      "word": "health",
+      "pos": "명",
+      "meaning": "건강"
+    },
+    {
+      "word": "hear",
+      "pos": "동",
+      "meaning": "듣다"
+    },
+    {
+      "word": "heaven",
+      "pos": "명",
+      "meaning": "천국, 하늘"
+    },
+    {
+      "word": "hide",
+      "pos": "동",
+      "meaning": "숨기다, 숨다"
+    },
+    {
+      "word": "hole",
+      "pos": "명",
+      "meaning": "구멍"
+    },
+    {
+      "word": "honey",
+      "pos": "명",
+      "meaning": "꿀"
+    },
+    {
+      "word": "horror",
+      "pos": "명",
+      "meaning": "공포, 무서움"
+    },
+    {
+      "word": "humor",
+      "pos": "명",
+      "meaning": "유머"
+    },
+    {
+      "word": "hungry",
+      "pos": "형",
+      "meaning": "배고픈"
+    },
+    {
+      "word": "ill",
+      "pos": "형",
+      "meaning": "아픈, 병든"
+    },
+    {
+      "word": "imagine",
+      "pos": "동",
+      "meaning": "상상하다"
+    },
+    {
+      "word": "increase",
+      "pos": "동",
+      "meaning": "증가하다"
+    },
+    {
+      "word": "individual",
+      "pos": "형",
+      "meaning": "개인의, 각각의"
+    },
+    {
+      "word": "insect",
+      "pos": "명",
+      "meaning": "곤충"
+    },
+    {
+      "word": "interest",
+      "pos": "명",
+      "meaning": "관심, 흥미"
+    },
+    {
+      "word": "international",
+      "pos": "형",
+      "meaning": "국제의"
+    },
+    {
+      "word": "invent",
+      "pos": "동",
+      "meaning": "발명하다"
+    },
+    {
+      "word": "iron",
+      "pos": "명",
+      "meaning": "철, 다리미"
+    },
+    {
+      "word": "island",
+      "pos": "명",
+      "meaning": "섬"
+    },
+    {
+      "word": "jeans",
+      "pos": "명",
+      "meaning": "청바지"
+    },
+    {
+      "word": "jog",
+      "pos": "동",
+      "meaning": "조깅하다"
+    },
+    {
+      "word": "joke",
+      "pos": "명",
+      "meaning": "농담"
+    },
+    {
+      "word": "journey",
+      "pos": "명",
+      "meaning": "여행"
+    },
+    {
+      "word": "joy",
+      "pos": "명",
+      "meaning": "기쁨"
+    },
+    {
+      "word": "knee",
+      "pos": "명",
+      "meaning": "무릎"
+    },
+    {
+      "word": "knock",
+      "pos": "동",
+      "meaning": "두드리다"
+    },
+    {
+      "word": "lack",
+      "pos": "명/동",
+      "meaning": "결핍/부족하다"
+    },
+    {
+      "word": "ladder",
+      "pos": "명",
+      "meaning": "사다리"
+    },
+    {
+      "word": "lamp",
+      "pos": "명",
+      "meaning": "램프"
+    },
+    {
+      "word": "language",
+      "pos": "명",
+      "meaning": "언어"
+    },
+    {
+      "word": "laugh",
+      "pos": "동",
+      "meaning": "(소리내어) 웃다"
+    },
+    {
+      "word": "law",
+      "pos": "명",
+      "meaning": "법"
+    },
+    {
+      "word": "leaf",
+      "pos": "명",
+      "meaning": "잎"
+    },
+    {
+      "word": "leave",
+      "pos": "동",
+      "meaning": "떠나다, 남기다"
+    },
+    {
+      "word": "list",
+      "pos": "명/동",
+      "meaning": "목록/목록을 작성하다"
+    },
+    {
+      "word": "livingroom",
+      "pos": "명",
+      "meaning": "거실"
+    },
+    {
+      "word": "lock",
+      "pos": "동/명",
+      "meaning": "잠그다/자물쇠"
+    },
+    {
+      "word": "lose",
+      "pos": "동",
+      "meaning": "지다, 잃다"
+    },
+    {
+      "word": "machine",
+      "pos": "명",
+      "meaning": "기계"
+    },
+    {
+      "word": "magic",
+      "pos": "명/형",
+      "meaning": "마법, 마술/마법의"
+    },
+    {
+      "word": "master",
+      "pos": "명/동",
+      "meaning": "주인/~을 완전히 익히다"
+    },
+    {
+      "word": "match",
+      "pos": "명/동",
+      "meaning": "경기, 성냥/어울리다"
+    },
+    {
+      "word": "matter",
+      "pos": "명/동",
+      "meaning": "문제, 일/문제가 되다, 중요하다"
+    },
+    {
+      "word": "meal",
+      "pos": "명",
+      "meaning": "식사"
+    },
+    {
+      "word": "mean",
+      "pos": "동/형",
+      "meaning": "의미하다/못된"
+    },
+    {
+      "word": "medicine",
+      "pos": "명",
+      "meaning": "약"
+    },
+    {
+      "word": "mild",
+      "pos": "형",
+      "meaning": "온화한, 따뜻한"
+    },
+    {
+      "word": "minute",
+      "pos": "명",
+      "meaning": "(시간) 분, 잠깐"
+    },
+    {
+      "word": "mirror",
+      "pos": "명",
+      "meaning": "거울"
+    },
+    {
+      "word": "mistake",
+      "pos": "명",
+      "meaning": "실수"
+    },
+    {
+      "word": "moment",
+      "pos": "명",
+      "meaning": "순간"
+    },
+    {
+      "word": "monster",
+      "pos": "명",
+      "meaning": "괴물"
+    },
+    {
+      "word": "muscle",
+      "pos": "명",
+      "meaning": "근육"
+    },
+    {
+      "word": "museum",
+      "pos": "명",
+      "meaning": "박물관"
+    },
+    {
+      "word": "mushroom",
+      "pos": "명",
+      "meaning": "버섯"
+    },
+    {
+      "word": "nervous",
+      "pos": "형",
+      "meaning": "긴장한, 불안한"
+    },
+    {
+      "word": "nest",
+      "pos": "명",
+      "meaning": "둥지"
+    },
+    {
+      "word": "noise",
+      "pos": "명",
+      "meaning": "소음"
+    },
+    {
+      "word": "none",
+      "pos": "대",
+      "meaning": "아무도 ~않다"
+    },
+    {
+      "word": "noon",
+      "pos": "명",
+      "meaning": "정오, 한낮"
+    },
+    {
+      "word": "novel",
+      "pos": "명",
+      "meaning": "소설"
+    },
+    {
+      "word": "object",
+      "pos": "명/동",
+      "meaning": "물건, 목표/반대하다"
+    },
+    {
+      "word": "ocean",
+      "pos": "명",
+      "meaning": "대양, 바다"
+    },
+    {
+      "word": "odd",
+      "pos": "형",
+      "meaning": "이상한, 홀수의"
+    },
+    {
+      "word": "offer",
+      "pos": "동",
+      "meaning": "제안하다, 권하다"
+    },
+    {
+      "word": "once",
+      "pos": "부",
+      "meaning": "한 번, 언젠가"
+    },
+    {
+      "word": "orchestra",
+      "pos": "명",
+      "meaning": "관현악단, 오케스트라"
+    },
+    {
+      "word": "order",
+      "pos": "동/명",
+      "meaning": "명령[주문]하다/순서, 명령, 주문"
+    },
+    {
+      "word": "own",
+      "pos": "동/형",
+      "meaning": "소유하다/자기 자신의"
+    },
+    {
+      "word": "pain",
+      "pos": "명",
+      "meaning": "통증, 고통"
+    },
+    {
+      "word": "pair",
+      "pos": "명",
+      "meaning": "쌍, 켤레"
+    },
+    {
+      "word": "past",
+      "pos": "형/명",
+      "meaning": "과거의/과거"
+    },
+    {
+      "word": "pause",
+      "pos": "동/명",
+      "meaning": "잠시 멈추다/잠시 멈춤"
+    },
+    {
+      "word": "peaceful",
+      "pos": "형",
+      "meaning": "평화로운"
+    },
+    {
+      "word": "per",
+      "pos": "전",
+      "meaning": "~마다, 각"
+    },
+    {
+      "word": "perfect",
+      "pos": "형",
+      "meaning": "완벽한"
+    },
+    {
+      "word": "person",
+      "pos": "명",
+      "meaning": "사람, 개인"
+    },
+    {
+      "word": "pet",
+      "pos": "명",
+      "meaning": "반려동물"
+    },
+    {
+      "word": "photograph",
+      "pos": "명",
+      "meaning": "사진"
+    },
+    {
+      "word": "pill",
+      "pos": "명",
+      "meaning": "알약"
+    },
+    {
+      "word": "plain",
+      "pos": "형/명",
+      "meaning": "분명한/평원"
+    },
+    {
+      "word": "planet",
+      "pos": "명",
+      "meaning": "행성"
+    },
+    {
+      "word": "plant",
+      "pos": "명/동",
+      "meaning": "식물/심다"
+    },
+    {
+      "word": "plate",
+      "pos": "명",
+      "meaning": "접시"
+    },
+    {
+      "word": "pocket",
+      "pos": "명",
+      "meaning": "주머니"
+    },
+    {
+      "word": "poem",
+      "pos": "명",
+      "meaning": "시"
+    },
+    {
+      "word": "popular",
+      "pos": "형",
+      "meaning": "인기있는, 대중의"
+    },
+    {
+      "word": "population",
+      "pos": "명",
+      "meaning": "인구"
+    },
+    {
+      "word": "port",
+      "pos": "명",
+      "meaning": "항구"
+    },
+    {
+      "word": "possible",
+      "pos": "형",
+      "meaning": "가능한"
+    },
+    {
+      "word": "pot",
+      "pos": "명",
+      "meaning": "냄비, 단지"
+    },
+    {
+      "word": "pour",
+      "pos": "동",
+      "meaning": "따르다, 쏟아지다"
+    },
+    {
+      "word": "practice",
+      "pos": "동/명",
+      "meaning": "연습하다/연습"
+    },
+    {
+      "word": "prepare",
+      "pos": "동",
+      "meaning": "준비하다"
+    },
+    {
+      "word": "prey",
+      "pos": "명",
+      "meaning": "먹이"
+    },
+    {
+      "word": "price",
+      "pos": "명",
+      "meaning": "가격"
+    },
+    {
+      "word": "professor",
+      "pos": "명",
+      "meaning": "교수"
+    },
+    {
+      "word": "promise",
+      "pos": "동/명",
+      "meaning": "약속하다/약속"
+    },
+    {
+      "word": "proud",
+      "pos": "형",
+      "meaning": "자랑스러운"
+    },
+    {
+      "word": "pull",
+      "pos": "동",
+      "meaning": "당기다, 끌다"
+    },
+    {
+      "word": "purple",
+      "pos": "명",
+      "meaning": "보라색"
+    },
+    {
+      "word": "quite",
+      "pos": "부",
+      "meaning": "꽤, 상당히"
+    },
+    {
+      "word": "rainbow",
+      "pos": "명",
+      "meaning": "무지개"
+    },
+    {
+      "word": "rat",
+      "pos": "명",
+      "meaning": "쥐"
+    },
+    {
+      "word": "reach",
+      "pos": "동",
+      "meaning": "도착하다, 닿다"
+    },
+    {
+      "word": "real",
+      "pos": "형",
+      "meaning": "진짜의, 실제의"
+    },
+    {
+      "word": "reason",
+      "pos": "명",
+      "meaning": "이유, 근거"
+    },
+    {
+      "word": "receive",
+      "pos": "동",
+      "meaning": "받다"
+    },
+    {
+      "word": "record",
+      "pos": "명/동",
+      "meaning": "기록/기록하다"
+    },
+    {
+      "word": "refrigerator",
+      "pos": "명",
+      "meaning": "냉장고"
+    }
+]
